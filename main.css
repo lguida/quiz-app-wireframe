@@ -1,0 +1,30 @@
+h1, p, .begin-label{
+    text-align: center;
+}
+
+p {
+    padding-bottom: 20px;
+}
+
+button {
+    display: block;
+    margin: auto;
+}
+
+h1{
+    padding-top: 21px;
+    padding-bottom:20px;
+}
+
+.answer-options{
+    padding-left: 300px;
+    padding-bottom: 20px;
+}
+
+.question{
+    text-align: center;
+}
+.scoring{
+    text-align: center;
+    padding: 0;
+}
